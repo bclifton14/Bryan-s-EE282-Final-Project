@@ -1,7 +1,10 @@
 #Genome Annotation Summary Plots
-#All files in directory "Annotation"
-#For Answers, see .png plots in "READMEs_Summaries_Plots"
-#For work, see below (some files may have been created in "READMEs_Summaries_Plots/README_GenomeAnnotationSummaryReport.txt"
+
+#For Exon Length see "Plot_GenomeAnnotation_ExonLength.png"
+#For Gene Length see "Plot_GenomeAnnotation_GeneLength.png"
+#For Transcripts per Gene see "Plot_GenomeAnnotation_GeneLength.png"
+
+#Did not upload any input, intermiate, or output files or scripts for sake of time management but can upload them if needed
 
 
 #Prepares environment and downloads the data

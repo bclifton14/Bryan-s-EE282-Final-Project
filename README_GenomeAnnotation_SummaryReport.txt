@@ -1,6 +1,8 @@
 #Genome Annotation Summary Report
-#All files in directory "Annotation"
-#For answers, less file "Annotation/READMEs_Summaries_Plots/GenomeAnnotation_SummaryReport.txt"
+
+#For Answers, less file "SummaryReport_GenomeAnnotation.txt"
+
+#Did not upload any input, intermiate, or output files or scripts for sake of time management but can upload them if needed
 
 
 #Methods used to summarize the D. melanogaster Genome Annotation

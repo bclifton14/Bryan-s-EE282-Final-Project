@@ -1,7 +1,11 @@
 #Genome Assembly Summary Plots
-#All files in directory "Assembly"
-#For Answers, see .png plots in "READMEs_Summaries_Plots"
-#For work see below (some files may have been created in "README_GenomeAssemblySummaryReport.txt"
+
+#For Sequence Length Distribution, see "Plot_GenomeAseembly_SequenceLengthDistribution.png"
+#For Sequence GC% Distribution, see "Plot_GenomeAssembly_SequenceGCDistribution.png"
+#For Cumulative Size Distribution, see "Plot_GenomeAssembly_GenomeSizeCDF.png"
+
+#Did not upload any input, intermiate, or output files or scripts for sake of time management but can upload them if needed
+
 
 #Prepare environment and download data
 ##loads bioawk,etc
